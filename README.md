@@ -2,7 +2,11 @@
 
 自用插件 ，refer-plugin是插入[Yunzai-Bot](https://github.com/Le-niao/Yunzai-Bot)的插件，提供角色参考面板和收益曲线。
 
-## 相关指令 
+### 安装指令：
+**`github：`
+`git clone https://github.com/Cold-666/refer-plugin.git ./plugins/refer-plugin/`**
+
+### 相关指令 
 
 #胡桃参考面板
 
@@ -11,7 +15,7 @@
 #refer更新
 
 
-## 相关链接
+### 相关链接
 
 图片来源：[参考面板 NGA玩家社区](https://bbs.nga.cn/read.php?tid=25843014)
 
